@@ -3,6 +3,9 @@
 - 自分のこと
 - 保有スキル
 
+# 残作業
+- Dockerで環境を管理できるようにする(使いまわせそう)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
