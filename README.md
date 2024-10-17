@@ -1,10 +1,8 @@
-# MyPage
-自己紹介ページ
-- 自分のこと
-- 保有スキル
+# テンプレートページ
+React + Typescriptを使う時のテンプレート
 
 # 残作業
-- Dockerで環境を管理できるようにする(使いまわせそう)
+- Dockerで環境を管理できるようにする
 
 # React + TypeScript + Vite
 
