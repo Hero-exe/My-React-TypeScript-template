@@ -1,5 +1,5 @@
 # テンプレートページ
-React + Typescriptを使う時のテンプレート
+React + Typescriptを使う時のテンプレート。  
 CSSは使用するプロジェクトで好みで導入するため、テンプレートに入れない。
 
 # React + TypeScript + Vite
