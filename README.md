@@ -1,8 +1,6 @@
 # テンプレートページ
 React + Typescriptを使う時のテンプレート
-
-# 残作業
-- Dockerで環境を管理できるようにする
+CSSは使用するプロジェクトで好みで導入するため、テンプレートに入れない。
 
 # React + TypeScript + Vite
 
